@@ -1,4 +1,4 @@
-\# Perigon MCP Server for Claude
+\# Perigon MCP Server for Claude - worKS for WINDOWS 11 ( python works)
 
 
 
@@ -481,4 +481,5 @@ MIT License - feel free to use and modify
 
 
 Made with ❤️ for the Claude Desktop community
+
 
